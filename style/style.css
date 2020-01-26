@@ -6,7 +6,8 @@ html
   padding: 0;}
 
 body
-{ font: normal .80em 'trebuchet ms', arial, sans-serif;
+{ font: 'trebuchet ms', arial, sans-serif;
+  size: 20px;
   background: #F0EFE2;
   color: #777;}
 
